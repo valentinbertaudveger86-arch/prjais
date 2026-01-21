@@ -38,7 +38,7 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 ---
 Légende :         
 - 🟩 Terminé
-- 🟨 En Cours
+- 🟨 En Cours 
 - 🟥 En Attente
 ---
 - [Cahier des charges complet](docs/cahier_des_charges.md) 🟩                          
