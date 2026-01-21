@@ -1,6 +1,6 @@
-# CAHIERS DES CHARGES | SUPERVISION
+# CAHIERS DES CHARGES | SUPERVISION 🕵️‍♂️
 
-> Projet de supervision pour un **Titre Pro Administrateur d'Infrastructures Securisées** | BERTAUD--VEGER Valentin
+> Projet de supervision pour un **Titre Pro Administrateur d'Infrastructures Securisées** | BERTAUD--VEGER Valentin 👨‍💻
 ---
 
 ## I.	Contexte & Problématique
