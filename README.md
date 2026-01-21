@@ -35,10 +35,16 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 ---
 
 ## Livrables
-- [Cahier des charges complet](docs/cahier_des_charges.md)
-- [Validation du projet](docs/validation.md)
-- [Tableaux de bord](dashboards/)
-- [Procédures d’exploitation](docs/procedures.md)
-- [Support d’oral](slides/)
+---
+Légende :         
+- 🟩 Terminé
+- 🟨 En Cours
+- 🟥 En Attente
+---
+- [Cahier des charges complet](docs/cahier_des_charges.md) 🟩                          
+- [Validation du projet](docs/validation.md) 🟨
+- [Tableaux de bord](dashboards/) 🟥
+- [Procédures d’exploitation](docs/procedures.md) 🟥
+- [Support d’oral](slides/) 🟥
 
-![Schéma de l’infrastructure](images/schema_infra.png)
+![Schéma de l’infrastructure](images/schema_infra.png) 🟥
