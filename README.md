@@ -1,5 +1,6 @@
 # CAHIERS DES CHARGES | SUPERVISION
 
+> Projet de supervision pour un **Titre Pro Administrateur d'Infrastructures Securisées** | BERTAUD--VEGER Valentin
 ---
 
 ## I.	Contexte & Problématique
@@ -17,7 +18,9 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 ## II.	Objectifs du projet
 
 
-•	Mettre en place une supervision centralisée
-•	Améliorer la disponibilité des services
-•	Anticiper les incidents
-•	Intégrer des indicateurs de sécurité
+- Mettre en place une supervision centralisée.
+- Améliorer la disponibilité des services.
+- Anticiper les incidents.
+- Intégrer des indicateurs de sécurité.
+
+
