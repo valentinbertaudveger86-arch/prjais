@@ -23,4 +23,13 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 - Anticiper les incidents.
 - Intégrer des indicateurs de sécurité.
 
+---
+
+## III.  Périmètre d'intervention
+
+- Hyperviseur avec une VM de supervision
+- Tous les équipement réseaux pour pouvoir les superviser (Switch, pare-feu, VPN, FTTO, FTTH etc...)
+
+> Le périmètre d'intervention dépendra de **la reprise progressive de l'infrastructure.** Actuellement géré par des prestataires, il est difficile de reprendre la main dessus **(21/01/2026 15:05).**
+
 
