@@ -70,7 +70,6 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 
 ## IV.  Contraintes 
 
-Sur un pro
 
 -  Budget limité : pas de gros investissement matériel ou logiciel.
 -  Temps de mise en œuvre contraint : planification réaliste selon ton calendrier d’études et disponibilité des serveurs.
