@@ -43,11 +43,10 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
   -  *Centraliser les événements et logs* : collecte centralisée, corrélation d’événements, filtrage par type ou gravité.
   -  *Tableaux de bord et rapports* : visualisation synthétique, graphiques d’évolution, rapports périodiques automatisés.
   -  *Superviser les services applicatifs* : disponibilité et erreurs des services critiques (GeoHecras, ZWCad).
-  -  *Automatisation des actions (optionnel)* : redémarrage de services/VM, scripts de remédiation.
 
 **3.2 Besoins en cybersécurité**
 
--  Gestion fine des rôles et droits d’accès : opérateur, administrateur, lecture seule.
+-  Gestion fine des rôles et droits d’accès sur Zabbix : opérateur, administrateur, lecture seule.
 -  Journalisation complète : connexions, modifications de configuration, actions critiques.
 -  Chiffrement des communications : TLS/SSL entre agents et serveur.
 -  Authentification forte : MFA, intégration AD/LDAP.
