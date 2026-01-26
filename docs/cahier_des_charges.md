@@ -71,7 +71,7 @@ Dans un contexte de reprise en interne des activités et de résiliation progres
 
 
 -  Budget limité : pas de gros investissement matériel ou logiciel.
--  Temps de mise en œuvre contraint : planification réaliste selon ton calendrier d’études et disponibilité des serveurs.
+-  Temps de mise en œuvre contraint : planification réaliste selon mon calendrier d’études et disponibilité des serveurs.
 -  Complexité de l’infrastructure : plusieurs prestataires externes, équipements variés → choix d’une solution flexible.
 -  Contrainte de sécurité : respecter les bonnes pratiques ANSSI et l’orientation cybersécurité.
 
