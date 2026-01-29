@@ -147,16 +147,13 @@ personnalisation de la plateforme.
 Zabbix se révèle donc **plus accessible** pour les profils moins technophiles ainsi que pour les
 organisations de taille plus importante.
 
-```
-Vue globale de Zabbix © Adeo-informatique
-```
 
 <p align="center">
   <img src="../img/Zabbix.png" alt="Comparatif Zabbix vs Nagios" width="700">
 </p>
 
 
-### #3 Les plugins
+### 3. Les plugins
 
 **Nagios**
 
@@ -167,11 +164,11 @@ attendu par Nagios.
 
 Il est possible, pour les utilisateurs, d’ajouter des plugins :
 
-```
-en les téléchargeant depuis le Nagios Exchange (il existe des extensions standards
+
+- En les téléchargeant depuis le Nagios Exchange (il existe des extensions standards
 officielles, et de nombreuses autres exécutées par la communauté) ;
-en développant leurs propres scripts personnalisés.
-```
+- En développant leurs propres scripts personnalisés.
+
 Grâce à cette approche modulaire, vous surveillez une large gamme de dispositifs et de
 services!
 
@@ -189,7 +186,7 @@ profitez en parallèle de templates qui regroupent ces éléments, facilitant ai
 Les agents installés sur les machines collectent des données de performance et exécutent ces
 scripts locaux, en faveur d’un monitoring bien plus **adapté à vos besoins**.
 
-### #4 Les tableaux de bord
+### 4. Les tableaux de bord
 
 **Nagios**
 
@@ -201,16 +198,10 @@ Bien que fonctionnels, ces dashboards **manquent de clarté**. Et pour obtenir d
 graphiques plus détaillées et adaptées à vos besoins, il convient d’ajouter des plugins tels que
 NagVis.
 
-```
-Une question? ... Référencer un logiciel
-```
-```
-Une question? Notre IA vous répond.
-```
+<p align="center">
+  <img src="../img/TBN.png" alt="Comparatif Zabbix vs Nagios" width="700">
+</p>
 
-```
-© 3D-Online
-```
 **Zabbix**
 
 Zabbix propose des tableaux de bord **plus facilement personnalisables** , et capables
@@ -222,10 +213,10 @@ des cartes réseau ou encore des panneaux de données.
 De plus, l'interface plus moderne de Zabbix optimise le **paramétrage** ainsi que le **partage de
 ces dashboards** , au bénéfice d’une meilleure collaboration entre les équipes.
 
+<p align="center">
+  <img src="../img/TBZ.png" alt="Comparatif Zabbix vs Nagios" width="700">
+</p>
 
-```
-© 3D-Online
-```
 ### #5 Le support et la communauté
 
 **Nagios**
