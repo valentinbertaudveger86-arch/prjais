@@ -86,7 +86,7 @@ leurs **principales caractéristiques et différences**.
 | **Communauté et support** | Communauté vaste et active. Nombreuses contributions sous forme de plugins, d'extensions et de ressources documentaires | Communauté dynamique et bien soutenue. La société Zabbix SIA organise des événements communautaires, des conférences et maintient une documentation exhaustive |
 
 
-### 1 Le déploiement
+### 1. Le déploiement
 
 **Nagios**
 
@@ -116,26 +116,23 @@ Une fois Zabbix installé, sa configuration s’opère principalement via une **
 intuitive. En d’autres termes, inutile d’éditer des fichiers texte directement!
 ```
 
-### 2 L’interface web
+### 2. L’interface web
 
 **Nagios**
 
-
-L'interface utilisateur de Nagios est connue pour être **moins intuitive** que celle de Zabbix.
-
+L'interface utilisateur de Nagios est connue pour être **moins intuitive** que celle de Zabbix.;
 Elle fournit une vue assez basique sur l’état du réseau et permet de générer des **rapports
 simples** relatifs à l'état des services et des hôtes.
 
 Et vous l’aurez compris, sa personnalisation nécessite des fichiers texte, ce qui complexifie
 quelque peu le processus...
 
-![Comparatif Zabbix vs Nagios](../img/Nagios.png)
+<p align="center">
+  <img src="../img/Nagios.png" alt="Comparatif Zabbix vs Nagios" width="700">
+</p>
 
+---
 
-
-```
-Détail du statut des hôtes sur Nagios © Capterra
-```
 **Zabbix**
 
 L'interface de Zabbix brille plus par sa **modernité**.
@@ -153,6 +150,12 @@ organisations de taille plus importante.
 ```
 Vue globale de Zabbix © Adeo-informatique
 ```
+
+<p align="center">
+  <img src="../img/Zabbix.png" alt="Comparatif Zabbix vs Nagios" width="700">
+</p>
+
+
 ### #3 Les plugins
 
 **Nagios**
