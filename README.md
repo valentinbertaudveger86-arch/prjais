@@ -43,7 +43,7 @@ Légende :
 ---
 - [Validation du projet](docs/validation.md) 🟨
 - [Cahier des charges complet](docs/cahier_des_charges.md) 🟩
-- [Analyse des solutions](docs/Analyse.md) 🟥
+- [Analyse des solutions](docs/Analyse.md) 🟩
 - [Choix argumenté](docs/choix.md) 🟥                                  
 - [Tableaux de bord](dashboards/) 🟥
 - [Procédures d’exploitation](docs/procedures.md) 🟥
