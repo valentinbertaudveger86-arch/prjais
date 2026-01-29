@@ -1,8 +1,8 @@
 # Zabbix vs Nagios (+ alternatives)
 
-```
-Sommaire
-```
+
+## Sommaire
+
 Dans la grande famille des **logiciels de monitoring** , on demande **Zabbix** et **Nagios**.
 
 Si nombre d’entreprises s’intéressent à ces solutions, c’est qu'elles ont pour particularité
@@ -30,45 +30,25 @@ pourquoi Nagios séduit par sa **flexibilité** et son **évolutivité**.
 
 Plus spécifiquement, Nagios est construit autour de trois éléments :
 
-```
-l’ordonnanceur , c’est-à-dire le composant central gérant la planification et l'exécution
+- L’ordonnanceur , c’est-à-dire le composant central gérant la planification et l'exécution
 des vérifications des services et des hôtes, via des fichiers de configuration texte ;
-les plugins , fonctionnant de manière autonome et chargés de superviser les objets
+- Les plugins , fonctionnant de manière autonome et chargés de superviser les objets
 configurés ;
-```
-```
-MEILLEURES SÉLECTIONS
-```
-#### 1.
-
-#### 2.
-
-#### 3.
-
-#### 4.
-
-#### 5.
-
-
-```
-l’interface d’administration qui permet de visualiser et gérer les éléments surveillés.
+- L’interface d’administration qui permet de visualiser et gérer les éléments surveillés.
 ```
 Notons que Nagios exploite des **fichiers de configuration texte** , et non une base de
 données relationnelle. Par conséquent, sa consommation en ressources se révèle plutôt faible.
+```
 
+```
 ❗ **Important :** il est question dans cet article de **Nagios Core** , le logiciel historique et open
 source. Il existe néanmoins des offres payantes, **Nagios XI** et des produits complémentaires :
+```
 
-```
-Nagios Log Server ;
-Nagios Network Analyzer ;
-Nagios Fusion.
-```
-### Lire aussi
+- Nagios Log Server ;
+- Nagios Network Analyzer ;
+- Nagios Fusion.
 
-```
-Quel logiciel pour votre supervision réseau? Voici notre top 17 des meilleurs outils
-```
 ### Comment fonctionne le logiciel Zabbix?
 
 **Zabbix** se présente également comme un logiciel de **supervision informatique gratuit et
