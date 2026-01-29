@@ -42,8 +42,9 @@ données relationnelle. Par conséquent, sa consommation en ressources se révè
 
 ```
 ❗ **Important :** il est question dans cet article de **Nagios Core** , le logiciel historique et open
-source. Il existe néanmoins des offres payantes, **Nagios XI** et des produits complémentaires :
+source. 
 ```
+Il existe néanmoins des offres payantes, **Nagios XI** et des produits complémentaires :
 
 - Nagios Log Server ;
 - Nagios Network Analyzer ;
@@ -69,118 +70,22 @@ leurs **principales caractéristiques et différences**.
 
 ## Les différentes caractéristiques de Nagios et Zabbix
 
-### Tableau récapitulatif
+# Comparatif Nagios vs Zabbix
+
+| Caractéristique          | Nagios                                                                 | Zabbix                                                                                   |
+|--------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Architecture**         | Modulaire                                                               | Monolithique                                                                             |
+| **Interface**            | Basique, ne propose pas le même niveau de clarté que Zabbix            | Moderne et intuitive, avec graphiques interactifs                                        |
+| **Plugins**              | Nombreux plugins supplémentaires                                        | Pas de plugins au sens strict, mais capacités d'extension par templates et scripts       |
+| **Surveillance**         | Fortement axée sur la vérification de la disponibilité des services et des hôtes | Inclut aussi la surveillance des performances et des réseaux en temps réel             |
+| **Alertes**              | Systèmes d’alertes prêtes à l’emploi                                    | Systèmes d’alertes prêtes à l’emploi, avec plus de possibilités de personnalisation (message et seuils de déclenchement flexibles) |
+| **Rapports et graphiques** | Pas de graphiques par défaut, nécessite des plugins supplémentaires    | Rapports et graphiques détaillés intégrés                                               |
+| **Protocoles pris en charge** | HTTP, FTP, SMTP, SNMP, POP3, SSH et MySQL                              | HTTP, FTP, SMTP, SNMP, POP3, SSH et MySQL                                              |
+| **Collecte de données**  | Principalement via des plugins externes                                  | Collecte de données intégrée, en temps réel                                             |
+| **Configuration**        | Manuelle, via des fichiers de configuration texte                        | Configuration via une interface web                                                     |
+| **Communauté et support** | Communauté vaste et active. Nombreuses contributions sous forme de plugins, d'extensions et de ressources documentaires | Communauté dynamique et bien soutenue. La société Zabbix SIA organise des événements communautaires, des conférences et maintient une documentation exhaustive |
 
 
-**Caractéristique Nagios Zabbix**
-
-**Architecture** Modulaire Monolithique
-
-**Interface**
-
-```
-Basique et ne propose pas le
-même niveau de clarté que
-Zabbix
-```
-```
-Moderne et intuitive, avec
-graphiques interactifs
-```
-**Plugins**
-Nombreux plugins
-supplémentaires
-
-```
-Pas de plugins au sens strict du
-terme, mais capacités d'extension
-par des templates et des scripts
-```
-**Surveillance**
-
-```
-Fortement axée sur la
-vérification de la
-disponibilité des services et
-des hôtes
-```
-```
-Inclut aussi une surveillance des
-performances et des réseaux en
-temps réel
-```
-**Alertes** Systèmes d’alertes prêtes à
-l’emploi
-
-```
-Systèmes d’alertes prêtes à
-l’emploi, avec plus de possibilités
-de personnalisation (message et
-seuils de déclenchement flexibles)
-```
-**Rapports et
-graphiques**
-
-```
-Pas de graphiques par
-défaut, nécessite des plugins
-supplémentaires
-```
-```
-Rapports et graphiques détaillés
-intégrés
-```
-**Protocoles pris
-en charge**
-
-#### HTTP, FTP, SMTP, SNMP,
-
-```
-POP3, SSH et MySQL
-```
-#### HTTP, FTP, SMTP, SNMP, POP3,
-
-```
-SSH et MySQL
-```
-**Collecte de
-données**
-
-```
-Principalement via des
-plugins externes
-```
-```
-Collecte de données intégrée, en
-temps réel
-```
-**Configuration** Manuelle, via des fichiers de
-configuration texte
-
-```
-Configuration via une interface
-web
-```
-
-```
-Communauté et
-support
-```
-```
-Communauté vaste et active.
-Nombreuses contributions
-sous forme de plugins,
-d'extensions et de
-ressources documentaires
-```
-```
-Communauté dynamique et bien
-soutenue. La société Zabbix SIA
-organise des événements
-communautaires, des conférences
-et maintient une documentation
-exhaustive
-```
 ### #1 Le déploiement
 
 **Nagios**
