@@ -1,11 +1,4 @@
-```
-Services informatiques Supervision Informatique La guerre des logiciels de monitoring est ...
-```
-# La guerre des logiciels de monitoring est déclarée :
-
 # Zabbix vs Nagios (+ alternatives)
-
-Par Jennifer Montérémal • Le 27 juin 2024
 
 ```
 Sommaire
