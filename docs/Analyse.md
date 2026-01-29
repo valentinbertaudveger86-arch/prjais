@@ -86,7 +86,7 @@ leurs **principales caractéristiques et différences**.
 | **Communauté et support** | Communauté vaste et active. Nombreuses contributions sous forme de plugins, d'extensions et de ressources documentaires | Communauté dynamique et bien soutenue. La société Zabbix SIA organise des événements communautaires, des conférences et maintient une documentation exhaustive |
 
 
-### #1 Le déploiement
+### 1 Le déploiement
 
 **Nagios**
 
@@ -100,31 +100,26 @@ En outre, l'installation initiale de Nagios Core implique une bonne compréhensi
 
 _In fine_ , cette approche promet une grande flexibilité, mais elle :
 
-```
-s’avère parfois laborieuse et sujette à des erreurs de syntaxe ;
-nécessite pas mal de bande passante de la part des équipes chargées de l’administration
+- S’avère parfois laborieuse et sujette à des erreurs de syntaxe ;
+- Nécessite pas mal de bande passante de la part des équipes chargées de l’administration
 du logiciel.
-```
-### Lire aussi
 
-```
-4 stratégies et 6 étapes pour réussir votre déploiement informatique sans heurts
-```
 **Zabbix**
 
 Zabbix se distingue par un processus de déploiement **plus convivial** , au moyen :
 
-```
-de paquets précompilés disponibles pour diverses distributions Linux ;
-d’une documentation complète ainsi que de tutoriels officiels.
+- De paquets précompilés disponibles pour diverses distributions Linux ;
+- D’une documentation complète ainsi que de tutoriels officiels.
+  
 ```
 Une fois Zabbix installé, sa configuration s’opère principalement via une **interface web** plutôt
 intuitive. En d’autres termes, inutile d’éditer des fichiers texte directement!
+```
 
-
-### #2 L’interface web
+### 2 L’interface web
 
 **Nagios**
+
 
 L'interface utilisateur de Nagios est connue pour être **moins intuitive** que celle de Zabbix.
 
