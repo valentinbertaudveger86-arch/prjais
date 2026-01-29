@@ -217,7 +217,7 @@ ces dashboards** , au bénéfice d’une meilleure collaboration entre les équi
   <img src="../img/TBZ.png" alt="Comparatif Zabbix vs Nagios" width="700">
 </p>
 
-### #5 Le support et la communauté
+### 5. Le support et la communauté
 
 **Nagios**
 
@@ -245,101 +245,64 @@ d’aide technique ou encore de formation. Bref, une vraie assistance profession
 
 En résumé, voici les principaux avantages de Nagios :
 
-```
-Robustesse et flexibilité : Nagios est réputé pour sa fiabilité et sa capacité à s'adapter à
+
+- Robustesse et flexibilité : Nagios est réputé pour sa fiabilité et sa capacité à s'adapter à
 divers environnements réseau.
-```
-```
-Large écosystème de plugins : son grand nombre d'extensions promet une
+- Large écosystème de plugins : son grand nombre d'extensions promet une
 personnalisation ainsi qu’une extensibilité élevées.
-```
-```
-Historique et expérience : doté d’une longue histoire dans le domaine, Nagios bénéficie
+- Historique et expérience : doté d’une longue histoire dans le domaine, Nagios bénéficie
 d'une vaste base d'utilisateurs expérimentés, qui apporte un soutien précieux aux
 néophytes.
-```
-```
-Absence de base de données : le logiciel est bien moins gourmand en ressources que
+- Absence de base de données : le logiciel est bien moins gourmand en ressources que
 certains de ses concurrents.
-```
+
 ### Pourquoi choisir Zabbix?
 
 En résumé, voici les principaux avantages de Zabbix :
 
-```
-Personnalisation et flexibilité : Zabbix permet de créer des tableaux de bord et des
+
+- Personnalisation et flexibilité : Zabbix permet de créer des tableaux de bord et des
 configurations hautement personnalisables, adaptés aux besoins spécifiques des
 utilisateurs.
-```
-```
-Surveillance en temps réel : grâce aux dashboards, vous obtenez une visualisation en
+- Surveillance en temps réel : grâce aux dashboards, vous obtenez une visualisation en
 temps réel de vos métriques clés.
-```
-```
-Interface intuitive : l’interface moderne et intuitive de la plateforme simplifie
+- Interface intuitive : l’interface moderne et intuitive de la plateforme simplifie
 grandement la configuration ainsi que le déploiement des solutions de surveillance.
-```
-```
-Support professionnel : Zabbix propose des services de support efficaces (technique,
+- Support professionnel : Zabbix propose des services de support efficaces (technique,
 formation, etc.), accélérant la prise en main de l’outil et favorisant sa bonne exploitation.
-```
-### Les avantages des logiciels open source pour la supervision informatique
 
-
-Globalement, les principaux bénéfices de ces deux solutions résident dans leur **caractère
-gratuit et open source**.
-
-De par ces attributs, vous :
-
-```
-consacrez moins de budget à la surveillance de votre réseau ;
-profitez de solutions personnalisables, en mesure de s’adapter à vos besoins spécifiques ;
-intégrez une large communauté d’utilisateurs, bien pratique pour obtenir de l’aide et
-trouver des ressources en ligne.
-```
 ## Les inconvénients de Nagios et Zabbix
 
 ### Les principaux inconvénients de Nagios
 
 Côté inconvénients, voici ce qu’on retient principalement pour Nagios :
 
-```
-Complexité de configuration : la gestion de Nagios repose sur de nombreux fichiers
-texte, rendant la configuration complexe et chronophage.
-```
-```
-Interface obsolète : l'interface de l’outil est considérée comme datée comparée à des
-solutions plus modernes.
-```
-```
-Fragmentation de l'écosystème : l'existence de nombreux forks (comme Icinga,
-Centreon) crée un écosystème fragmenté, compliquant la gestion des plugins.
-```
 
-```
-Manque de centralisation : contrairement à d'autres logiciels, Nagios ne dispose pas
+- Complexité de configuration : la gestion de Nagios repose sur de nombreux fichiers
+texte, rendant la configuration complexe et chronophage.
+- Interface obsolète : l'interface de l’outil est considérée comme datée comparée à des
+solutions plus modernes.
+- Fragmentation de l'écosystème : l'existence de nombreux forks (comme Icinga,
+Centreon) crée un écosystème fragmenté, compliquant la gestion des plugins.
+- Manque de centralisation : contrairement à d'autres logiciels, Nagios ne dispose pas
 d'une gestion centralisée via une base de données.
-```
+
+---
+
 ### Les principaux inconvénients de Zabbix
 
 Côté inconvénients, voici ce qu’on retient principalement pour Zabbix :
 
-```
-Complexité d'utilisation : la puissance de Zabbix rend parfois son paramétrage et son
+
+- Complexité d'utilisation : la puissance de Zabbix rend parfois son paramétrage et son
 exploitation complexes, surtout pour les utilisateurs moins expérimentés.
-```
-```
-Documentation technique : bien que Zabbix dispose d'une documentation extensive,
+- Documentation technique : bien que Zabbix dispose d'une documentation extensive,
 elle peut être difficile à appréhender.
-```
-```
-Performance : dans les très grands environnements, la solution nécessite une gestion
+- Performance : dans les très grands environnements, la solution nécessite une gestion
 fine des ressources, dans un objectif de maintien de performances optimales.
-```
-```
-Absence de version entreprise : contrairement à d'autres solutions, Zabbix ne propose
+- Absence de version entreprise : contrairement à d'autres solutions, Zabbix ne propose
 pas de version entreprise distincte.
-```
+
 ### Les inconvénients des logiciels open source pour la supervision informatique
 
 De la même manière que pour les avantages, les inconvénients de ces logiciels résultent aussi
@@ -351,14 +314,13 @@ jour **nécessitent des efforts** pour leur configuration, leur déploiement et 
 Efforts requièrant une expertise technique et des ressources... ce qui, au final, contredit un
 peu le caractère gratuit (+ de gens à payer = + de dépenses 🤷).
 
-Autres problèmes rencontrés :
-
-```
-l’ incompatibilité potentielle avec l’environnement informatique de l’entreprise
+> Autres problèmes rencontrés :
+> L’ incompatibilité potentielle avec l’environnement informatique de l’entreprise
 demande encore des actions supplémentaires chronophages ;
-le support technique, les mises à jour et les correctifs de sécurité dépendent souvent de
+> Le support technique, les mises à jour et les correctifs de sécurité dépendent souvent de
 la communauté , ce qui entraîne des retards ou encore des risques de sécurité.
-```
+
+
 Par conséquent, de nombreuses organisations recherchent des **alternatives aux logiciels de
 supervision informatique open source**.
 
@@ -378,61 +340,6 @@ de son interface**. Par ailleurs, elle promet un **très bon rapport qualité/pr
 même d’une **offre gratuite** (limitée à 10 équipements), bien pratique pour éprouver la
 plateforme avant de mettre davantage la main au portefeuille.
 
-Côté fonctionnalités, WhatsUp Gold a tout ce qu’il faut pour garantir une supervision efficace
-:
-
-```
-un monitoring à 360° de votre infrastructure, même complexe, prenant aussi en charge
-l’analyse de la performance, de la disponibilité et de la bande passante ;
-un tableau de bord unifié fournissant une vue centralisée de votre environnement,
-même s’il s’agit d'un environnement hétérogène ;
-la supervision de tout ce qui est accessible via les protocoles standards : Ping, SNMP,
-WMI pour Windows, SSH pour Unix et Linux ;
-de multiples automatisations , pour gagner du temps et en fluidité dans vos processus ;
-la cartographie interactive de tout votre réseau.
-```
-🤩 Découvrez encore plus d'options dans notre article dédié aux **meilleurs logiciels de
-monitoring réseau**.
-
-### WhatsUp Gold
-
-```
-+200 avis
-```
-```
-Logiciel de supervision réseau pour PME et ETI
-```
-```
-En savoir plus sur WhatsUp Gold
-```
-
-## 5 autres logiciels - Supervision Informatique
-
-```
-En complément de la sélection en haut de page, découvrez 5 autres solutions pour
-Supervision Informatique présentées sur Appvizer afin d’atteindre vos objectifs, d’améliorer
-vos processus et de répondre aux besoins de votre entreprise.
-```
-```
-ManageEngine Endpoint Central — Centralisez et automatisez la gestion de vos
-terminaux IT
-```
-```
-monday dev — Le développement no-code agile pour profils non-techniques
-```
-```
-ManageEngine Log360 — Solution complète de gestion des logs et de SIEM
-```
-```
-Site24x7 — Supervision complète Full-Stack & Infrastructure
-```
-```
-ManageEngine Servicedesk Plus — Logiciel ITSM complet pour les entreprises de
-toutes tailles
-```
-```
-Voir tous les logiciels Supervision Informatique
-```
 ## Zabbix vs Nagios : que retenir?
 
 À la lecture de ce comparatif, vous aurez finalement compris que chacune des deux solutions
@@ -449,98 +356,7 @@ nombreuses organisations préfèrent adopter des **solutions propriétaires** , 
 moins de tracas. Sans oublier qu’en termes d’options de personnalisation et de tarifs, nombre
 d’entre elles savent tirer leur épingle du jeu!
 
-```
-Jennifer Montérémal , Editorial Manager Senior
-```
-```
-Jennifer Montérémal est Editorial Manager chez Appvizer, où elle accompagne les TPE et PME dans
-l’amélioration de leurs processus et dans le choix des bons outils. Spécialiste de la vulgarisation
-appliquée à la transformation digitale, elle a signé plusieurs centaines de contenus (guides,
-comparatifs, livres blancs, posts réseaux sociaux). Son credo? Traduire des sujets complexes en
-conseils clairs, concrets et immédiatement actionnables pour les décideurs. Fun fact : avant de
-démystifier les tendances professionnelles et les logiciels, Jennifer décryptait... les registres
-médiévaux. Médiéviste de formation, elle a conservé le même sens de la rigueur et du décryptage
-pour restituer l’information de façon fiable et intelligible.
-```
-```
-La transparence est une valeur essentielle pour Appvizer. En tant que média, nous avons pour objectif d'offrir à nos lecteurs
-des contenus utiles et de qualité tout en permettant à Appvizer de vivre de ces contenus. C'est pourquoi, nous vous
-invitons à découvrir notre système de rémunération. En savoir plus
-```
-```
-MEILLEURES SÉLECTIONS
-```
-#### 6.
 
-#### 7.
-
-#### 8.
-
-#### 9.
-
-#### 10.
-
-
-**Découvrez notre catalogue complet en Supervision Informatique**
-
-```
-Voir tous les logiciels
-```
-Meilleurs logiciels pour vous
-
-```
-Freshservice
-```
-```
-ManageEngine OpUtils
-```
-```
-Kaspersky Small Office Security
-```
-```
-Logiciel• 17 juillet 2025
-Quel logiciel choisir pour assurer le monitoring serveur de votre infrastructure
-informatique ?
-```
-```
-ITSM simplifié et alimenté par l'IA
-```
-```
-Logiciel de gestion des adresses IP
-```
-
-```
-Définition• 21 janvier 2025
-La supervision informatique, le secret des services informatiques super-
-proactifs !
-```
-```
-Modèle• 21 mai 2019
-DSI de transition : l'arme absolue pour transformer sa DSI ou son Système
-d’Information
-```
-```
-Solution de cybersécurité tout-en-un pour
-TPE et PME
-```
-Confidentialité
-
-Transparence
-
-CGU
-
-À propos
-
-Logiciels
-
-### Editeurs de logiciel
-
-Mon compte
-
-Centre d'aide
-
-```
-Référencer un logiciel
 ```
 Langue : France (Français)
 
