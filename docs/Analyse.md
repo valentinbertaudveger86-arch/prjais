@@ -129,6 +129,9 @@ simples** relatifs à l'état des services et des hôtes.
 Et vous l’aurez compris, sa personnalisation nécessite des fichiers texte, ce qui complexifie
 quelque peu le processus...
 
+![Comparatif Zabbix vs Nagios](img/Nagios.png)
+
+
 ```
 Détail du statut des hôtes sur Nagios © Capterra
 ```
