@@ -357,7 +357,5 @@ moins de tracas. Sans oublier qu’en termes d’options de personnalisation et 
 d’entre elles savent tirer leur épingle du jeu!
 
 
-```
-Langue : France (Français)
 
 
